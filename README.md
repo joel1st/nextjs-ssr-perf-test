@@ -2,7 +2,7 @@
 
 ## Summary
 
-React 18 + Next.js performs worse than React 17 + Next.js. This is across Next.js 12 and 13. This is not the case with raw React renderToString(), React 18 has better performance in comparison to React 17 when Next.js is not involved - Separate React specific benchmarks here: https://github.com/SuperOleg39/react-ssr-perf-test
+React 18 + Next.js performs worse than React 17 + Next.js. This is across Next.js 12 and 13. This is not the case with raw React renderToString(), React 18 has better performance in comparison to React 17 when Next.js is omitted - Separate React specific benchmarks here: https://github.com/SuperOleg39/react-ssr-perf-test
 
 Stats summary:
 
